@@ -13,8 +13,8 @@ st.markdown("<h1 style='color:#ff6347;'>Trading Guide App :</h1>", unsafe_allow_
 # Subtitle with more color and emphasis
 st.markdown("<h3 style='color:#333333;'>We provide the Greatest platform for you to collect all information prior to investing in stocks.</h3>", unsafe_allow_html=True)
 
-# Displaying an image (if available in the directory)
-st.image("app.png", use_container_width=True)  # Updated to use_container_width
+# Displayi ng an image (if available in the directory)
+st.image("images.png", use_container_width=True)  # Updated to use_container_width
 
 # Adding a heading with color
 st.markdown("<h3 style='color:#ff6347;'>We provide the following services:</h3>", unsafe_allow_html=True)
