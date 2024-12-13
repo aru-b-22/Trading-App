@@ -1,12 +1,4 @@
-# Trading Page
 ![image](https://github.com/user-attachments/assets/8e0b1402-86a1-4827-9765-895c744b83a9)
-
-![image](https://github.com/user-attachments/assets/01a98147-8c5e-47d2-8871-a20f1f47facc)
-
-# CAPM Beta
-![image](https://github.com/user-attachments/assets/b488935b-df79-4838-9a0b-0f6ae802f7d2)
-
-
 
 # Trading-App
 This project is a Python-based solution for stock market analysis and forecasting. It leverages technical analysis, financial modeling (CAPM), and machine learning (ARIMA) to provide insights and predictions. Interactive dashboards are created using Streamlit for enhanced user experience.
