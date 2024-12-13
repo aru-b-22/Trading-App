@@ -7,7 +7,9 @@ Features
 Installation
 Usage
 Technologies Used
-License
+
+# Overview
+The Stock Trading and Analysis Application is a tool designed to help investors and analysts analyze and predict stock market trends. It integrates various financial models, including time series forecasting using ARIMA and risk assessment via the Capital Asset Pricing Model (CAPM). The app provides interactive visualizations and forecasts, making it easy to track stock performance, evaluate market risks, and make data-driven investment decisions.
 
 # Features
 Interactive stock data visualization using Plotly (candlestick charts, RSI, MACD).
