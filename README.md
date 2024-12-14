@@ -1,4 +1,4 @@
- [Watch the Project Demo] (https://drive.google.com/file/d/1M5oqNNbCS1mzcuML1FASDdgLJInnv_us/view?usp=drive_link)
+ [Watch the Project Demo] (https://drive.google.com/file/d/1bCl9v3XZLdOOS1Bh4tTuEqflcWvvmqEO/view?usp=sharing)
 
 # Trading-App
 This project is a Python-based solution for stock market analysis and forecasting. It leverages technical analysis, financial modeling (CAPM), and machine learning (ARIMA) to provide insights and predictions. Interactive dashboards are created using Streamlit for enhanced user experience.
