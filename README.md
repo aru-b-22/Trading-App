@@ -5,9 +5,13 @@ This project is a Python-based solution for stock market analysis and forecastin
 
 # Table of Contents
 Overview
+
 Features
+
 Installation
+
 Usage
+
 Technologies Used
 
 # Overview
